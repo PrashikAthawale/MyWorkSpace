@@ -47,10 +47,8 @@ void Convert(char value)
 		{
 			printf("%c",ch);
 		}
-		
-		
+	
 }
-
 
 int main()
 {
