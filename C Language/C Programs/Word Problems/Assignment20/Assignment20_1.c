@@ -49,9 +49,6 @@ float CalculateBill(int iAmount)
 		return iAmount;
 	}
 	
-	
-
-	
 }
 
 int main()
@@ -68,67 +65,3 @@ int main()
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
