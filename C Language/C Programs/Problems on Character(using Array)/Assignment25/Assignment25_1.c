@@ -59,10 +59,6 @@ Bool ChkAlpha(char value)
 		}
 }
 
-
-
-
-
 int main()
 {
 	char ch='\0';
@@ -84,8 +80,5 @@ int main()
 	{
 		printf("It is not  Alphabet");
 	}
-	
-	
-	
 	
 }
